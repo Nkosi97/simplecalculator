@@ -1,4 +1,4 @@
-let myTest = require("../src/simple_calculator");
+let myTest = require("../../src/simple_calculator");
 let add = myTest.add;
 let multiply = myTest.multiply;
 
